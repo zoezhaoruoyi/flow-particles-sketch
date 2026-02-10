@@ -1,0 +1,7 @@
+{
+  "name": "Flow Particles Sketch-MH",
+  "description": "An interactive drawing app where hand-drawn strokes transform into flowing, audio-reactive particles inspired by Gemini's aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
